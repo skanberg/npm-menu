@@ -1,0 +1,19 @@
+{
+  "name": "npm-menu",
+  "version": "1.0.0",
+  "description": "A menu for executing your npm scritps. Uses package.json in current directory.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skanberg/npm-menu.git"
+  },
+  "author": "Fredrik Skanberg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/skanberg/npm-menu/issues"
+  },
+  "homepage": "https://github.com/skanberg/npm-menu#readme"
+}
